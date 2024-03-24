@@ -1,4 +1,4 @@
 # TP GIT
-** Integrantes:**
+**Integrantes:**
 * Chiara Podio
 * Esteban Podio
